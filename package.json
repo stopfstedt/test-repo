@@ -1,0 +1,19 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Nothing to see here, go away.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stopfstedt/test-repo.git"
+  },
+  "author": "Stefan Topfstedt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stopfstedt/test-repo/issues"
+  },
+  "homepage": "https://github.com/stopfstedt/test-repo#readme"
+}
